@@ -44,7 +44,7 @@ rtp://@232.84.1.27:8136
 rtp://@232.84.1.39:8208
 #EXTINF:0 tvg-id="vtv3hd" group-title="VTV (SD)" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 rtp://@232.84.1.28:8142
-#EXTINF:0 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
+#EXTINF:0 tvg-id="vtv4hd" group-title="VTV (SD)" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 rtp://@232.84.1.40:8214
 #EXTINF:0 tvg-id="vtv5hd" group-title="VTV (SD)" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 rtp://@232.84.1.41:8220
