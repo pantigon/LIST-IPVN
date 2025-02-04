@@ -267,9 +267,9 @@ rtp://@232.84.2.129:9570
 rtp://@232.84.2.140:10660
 #EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8.5Mbps)
 rtp://@232.84.3.121:10660
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 9Mbps)
+#EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 9Mbps)
 rtp://@232.84.1.90:10398
-#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 9Mbps)
+#EXTINF:0 tvg-id="cbeebies" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies (HD 9Mbps)
 rtp://@232.84.3.65:11662
 #EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
 rtp://@232.84.3.226:11278
